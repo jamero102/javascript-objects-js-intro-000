@@ -1,5 +1,5 @@
 var playlist = {
-  celine: 'my heart will go on',
+  "My Bloody Valentine": 'my heart will go on',
   bono: 'love me',
   dido: 'white flag',
 }
