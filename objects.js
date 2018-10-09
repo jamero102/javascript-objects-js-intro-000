@@ -1,4 +1,4 @@
-var playlist = {
+var My Bloody Valentine = {
   celine: 'my heart will go on',
   bono: 'love me',
   dido: 'white flag',
