@@ -3,6 +3,6 @@ var playlist = {
   bono: 'love me',
   dido: 'white flag',
 }
-function updatePlaylist(playlist, name, title) {
-  return Object.assign({}, playlist, {[key]: value })
+function updatePlaylist(playlist, artistName, songTitle) {
+  return Object.assign({}, playlist, {[artistName]: songTitle })
 }
